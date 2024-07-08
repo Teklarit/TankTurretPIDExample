@@ -4,7 +4,7 @@ Unreal Engine. Turret rotation with PID contrtoller.
 
 ## Video:
 
-[Overview](https://youtu.be/8oIjRFTFtcQ)
+[Overview - Youtube](https://youtu.be/8oIjRFTFtcQ)
 
 ## Requirements:
 
